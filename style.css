@@ -489,6 +489,12 @@ opacity: 1;
 transform: none;
 }
 
+@media (max-width: 1600px){
+    h1{
+        font-size: 60px !important;
+    }
+}
+
 @media (max-width: 700px) {
 nav ul { display: none; }
 .hero-stats { gap: 28px; }
